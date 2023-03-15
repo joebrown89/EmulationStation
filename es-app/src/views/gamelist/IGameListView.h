@@ -1,5 +1,7 @@
 #pragma once
 
+#include <stack>
+
 #include "FileData.h"
 #include "Renderer.h"
 
